@@ -1,2 +1,6 @@
-console.log('miaozhirui-first');
-console.log(111);
+
+module.exports = {
+    name: 'miaozhirui',
+    age: 100,
+    school: '北京大学'
+}
